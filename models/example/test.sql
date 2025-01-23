@@ -1,0 +1,1 @@
+select date_diff(current_date(),birthdate,year) as age from dbttest-448706.dbt_apal.fullname
