@@ -1,0 +1,1 @@
+select * from dbttest-448706.dbt_apal.fullname
